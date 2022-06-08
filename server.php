@@ -51,9 +51,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Upload successfully</title>
+    <style>
+        body{
+            overflow : hidden;
+            height : 100vh;
+            width : 100vw;
+            display : flex;
+            align-items: center;
+            justify-content : center;
+            background : aqua;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hisaorana ianao nanaiky niara niasa taminay.</h1>
+    <h1>Hisaorana ianao nanaiky niara niasa taminay. :) :)</h1>
+    <script>
+        location.href = "https://ambohipotsy.herokuapp.com/"
+    </script>
 </body>
 </html>
