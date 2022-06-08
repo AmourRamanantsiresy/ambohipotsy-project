@@ -2,4 +2,4 @@
 Web site for collect history
 
 ## Wanna see?
-Follow **[ambohipotsy.org](ambohipotsy.org)**
+Follow **[ambohipotsy.org](https://ambohipotsy.org)**
