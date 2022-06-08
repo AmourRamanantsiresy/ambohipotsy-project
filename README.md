@@ -1,6 +1,5 @@
 # Ambohipotsy project 
 Web site for collect history
 
-Wanna see?
-follow this link : 
-==> ambohipotsy.org
+## Wanna see?
+Follow **[ambohipotsy.org](ambohipotsy.org)**
