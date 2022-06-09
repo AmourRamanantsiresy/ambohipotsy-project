@@ -64,7 +64,7 @@
     </style>
 </head>
 <body>
-    <h1>Hisaorana ianao nanaiky niara niasa taminay.</h1>
+    <h1>Hisaorana ianao nanaiky nizara ny fahalanao :).</h1>
     <script>
         location.href = "https://ambohipotsy.herokuapp.com/"
     </script>
