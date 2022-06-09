@@ -1,5 +1,4 @@
 # Ambohipotsy Project 1.1
 
-This is the second version of ambohipotsy-project site, 
-
-With this site, we can send data (texte, image, pdf, ...) to the **database**
+This is the current version of Ambohipotsy-project. We can send history in the format txt, pdf, png, jpeg to us with this app. 
+The link is [ambohipotsy.org](https://ambohipotsy.org)
