@@ -20,15 +20,7 @@
             $temp_name = $_FILES['my_file']['tmp_name'];
             $path_filename_ext = $target_dir.$filename.".".$ext;
             $name = $filename.".".$ext;
-        
-            // Check if file already exists
-            // if (file_exists($path_filename_ext)) {
-            // echo "";
-            // }else{
-            // move_uploaded_file($temp_name,$path_filename_ext);
-            // }
-            //$res = pg_send_query($dbconn,"insert into hi values('$name', pg_read_binary_file('$path_filename_ext')::bytea);");
-            //echo $res;    
+      
             $file_name = $temp_name;
 
             $img = fopen($file_name, 'r') or die("cannot read image\n");
